@@ -7,6 +7,7 @@ app.get('/', (_request, response) => {
 
   response.type('html').send(`
     <h1>CI/CD Lab</h1>
+    <h2>Continuous Integration and Continuous Deployment Lab</h2>.
     <p>The application is running.</p>
     <p>Version ${version}</p>
   `);
