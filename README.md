@@ -77,3 +77,8 @@ Continue with the course to add verification and deployment. Keep `package-lock.
 ## Configuration
 
 The server uses port `3000` unless `PORT` is set. The home page displays `APP_VERSION`, defaulting to `development`. Neither variable is required to run the starter locally. Copy `.env.example` to `.env` to set them locally; `npm run dev` and `npm start` load it automatically.
+
+
+## Gist
+
+https://gist.github.com/bradtraversy/b6b1e16322cf60d8f41fbda71b1c607e 
